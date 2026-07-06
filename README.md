@@ -4,11 +4,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gohil-gaurav/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gohil-gaurav/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
