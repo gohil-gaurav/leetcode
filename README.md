@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gohil-gaurav/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gohil-gaurav/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gohil-gaurav/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
