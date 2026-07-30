@@ -1,14 +1,14 @@
 class Solution {
     public int arraySign(int[] nums) {
-        int res = 1;
+        int sign = 1;
         for(int x : nums){
             if( x == 0){
                 return 0;
             }
             if(x < 0){
-                res *= -1;
+                sign = -sign;
             }
         }
-        return res;
+        return sign;
     }
 }
