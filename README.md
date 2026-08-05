@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/gohil-gaurav/leetcode/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/gohil-gaurav/leetcode/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/gohil-gaurav/leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
