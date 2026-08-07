@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/gohil-gaurav/leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1470-shuffle-the-array](https://github.com/gohil-gaurav/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/gohil-gaurav/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/gohil-gaurav/leetcode/tree/master/1672-richest-customer-wealth) |
