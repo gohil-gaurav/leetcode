@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/gohil-gaurav/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/gohil-gaurav/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/gohil-gaurav/leetcode/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/gohil-gaurav/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
