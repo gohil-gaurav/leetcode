@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gohil-gaurav/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gohil-gaurav/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/gohil-gaurav/leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gohil-gaurav/leetcode/tree/master/0283-move-zeroes) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/gohil-gaurav/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gohil-gaurav/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
