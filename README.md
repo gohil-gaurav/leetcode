@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/gohil-gaurav/leetcode/tree/master/0824-goat-latin) |
 | [1108-defanging-an-ip-address](https://github.com/gohil-gaurav/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/gohil-gaurav/leetcode/tree/master/1678-goal-parser-interpretation) |
 ## Greedy
 |  |
 | ------- |
