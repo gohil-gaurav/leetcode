@@ -77,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gohil-gaurav/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/gohil-gaurav/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gohil-gaurav/leetcode/tree/master/0048-rotate-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
