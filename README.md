@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gohil-gaurav/leetcode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0824-goat-latin](https://github.com/gohil-gaurav/leetcode/tree/master/0824-goat-latin) |
+| [1021-remove-outermost-parentheses](https://github.com/gohil-gaurav/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/gohil-gaurav/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/gohil-gaurav/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/gohil-gaurav/leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/gohil-gaurav/leetcode/tree/master/0832-flipping-an-image) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gohil-gaurav/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/gohil-gaurav/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
