@@ -1,25 +1,24 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        
         int n = nums.length;
+        int[] ans = new int[n];
 
-        for(int i=0; i<n; i++){
-            nums[i] = nums[i]*nums[i];
-        }
-        boolean isSwap = false;
-        for(int i=0; i<n-1; i++){
-            for(int j=0; j<n-1-i; j++){
-                if(nums[j] > nums[j+1]){
-                    int temp = nums[j];
-                    nums[j] = nums[j+1];
-                    nums[j+1] = temp;
-                    isSwap = true;
-                }
-            }
-            if(!isSwap){
-                break;
+        int l = 0;
+        int r = n-1;
+
+        for(int i=n-1; i>=0; i--){
+            int ls = nums[l]*nums[l];
+            int rs = nums[r]*nums[r];
+
+            if(ls > rs){
+                ans[i] = ls;
+                l++;
+            }else{
+                ans[i] = rs;
+                r--;
             }
         }
-        return nums;
+
+        return ans;
     }
 }
