@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/gohil-gaurav/leetcode/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gohil-gaurav/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/gohil-gaurav/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/gohil-gaurav/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gohil-gaurav/leetcode/tree/master/0867-transpose-matrix) |
