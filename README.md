@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/gohil-gaurav/leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/gohil-gaurav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gohil-gaurav/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/gohil-gaurav/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/gohil-gaurav/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/gohil-gaurav/leetcode/tree/master/1678-goal-parser-interpretation) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gohil-gaurav/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
