@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gohil-gaurav/leetcode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/gohil-gaurav/leetcode/tree/master/0242-valid-anagram) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gohil-gaurav/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/gohil-gaurav/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gohil-gaurav/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gohil-gaurav/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/gohil-gaurav/leetcode/tree/master/1603-design-parking-system) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/gohil-gaurav/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |
