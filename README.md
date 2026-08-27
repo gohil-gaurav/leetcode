@@ -111,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/gohil-gaurav/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gohil-gaurav/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/gohil-gaurav/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/gohil-gaurav/leetcode/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gohil-gaurav/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gohil-gaurav/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
