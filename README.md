@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/gohil-gaurav/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/gohil-gaurav/leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gohil-gaurav/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gohil-gaurav/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
 | ------- |
