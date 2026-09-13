@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gohil-gaurav/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/gohil-gaurav/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/gohil-gaurav/leetcode/tree/master/0242-valid-anagram) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gohil-gaurav/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gohil-gaurav/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gohil-gaurav/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gohil-gaurav/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gohil-gaurav/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gohil-gaurav/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/gohil-gaurav/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gohil-gaurav/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/gohil-gaurav/leetcode/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
