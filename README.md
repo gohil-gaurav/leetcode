@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gohil-gaurav/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/gohil-gaurav/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/gohil-gaurav/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0661-image-smoother](https://github.com/gohil-gaurav/leetcode/tree/master/0661-image-smoother) |
 | [0704-binary-search](https://github.com/gohil-gaurav/leetcode/tree/master/0704-binary-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gohil-gaurav/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gohil-gaurav/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/gohil-gaurav/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/gohil-gaurav/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/gohil-gaurav/leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
