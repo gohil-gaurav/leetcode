@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/gohil-gaurav/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/gohil-gaurav/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/gohil-gaurav/leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/gohil-gaurav/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gohil-gaurav/leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gohil-gaurav/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gohil-gaurav/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gohil-gaurav/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gohil-gaurav/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/gohil-gaurav/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gohil-gaurav/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gohil-gaurav/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gohil-gaurav/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gohil-gaurav/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/gohil-gaurav/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/gohil-gaurav/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/gohil-gaurav/leetcode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gohil-gaurav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/gohil-gaurav/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/gohil-gaurav/leetcode/tree/master/1903-largest-odd-number-in-string) |
